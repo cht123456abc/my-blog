@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/my-blog/</loc>
     <lastmod>2024-12-28T00:25:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/first/</loc>
+    <loc>http://localhost:1313/my-blog/tags/first/</loc>
     <lastmod>2024-12-28T00:25:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/my-blog/post/</loc>
     <lastmod>2024-12-28T00:25:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/my-blog/tags/</loc>
     <lastmod>2024-12-28T00:25:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test4/</loc>
+    <loc>http://localhost:1313/my-blog/post/test4/</loc>
     <lastmod>2024-12-28T00:25:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test3/</loc>
+    <loc>http://localhost:1313/my-blog/post/test3/</loc>
     <lastmod>2024-12-27T23:52:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test2/</loc>
+    <loc>http://localhost:1313/my-blog/post/test2/</loc>
     <lastmod>2024-12-27T23:52:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test1/</loc>
+    <loc>http://localhost:1313/my-blog/post/test1/</loc>
     <lastmod>2024-12-27T23:51:39+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/my-blog/categories/</loc>
   </url>
 </urlset>
