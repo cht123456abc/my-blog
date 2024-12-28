@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://cht123456abc.github.io/my-blog/sitemap.xml
